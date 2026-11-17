@@ -1,2 +1,40 @@
-# infrastructure-lab
-Laboratorio personal de administración de sistemas, infraestructura IT, redes, middleware, automatización y cloud.
+# Infrastructure Lab
+
+Laboratorio personal de administración de sistemas e infraestructura IT, desarrollado en entornos virtualizados y orientado al aprendizaje práctico.
+
+## Objetivo
+
+Desarrollar, practicar y documentar conocimientos de administración de sistemas, redes, servidores, middleware, seguridad y automatización mediante configuraciones, proyectos y resolución de incidencias en entornos de laboratorio.
+
+## Entorno tecnológico
+
+- **Sistemas operativos:** Rocky Linux, Red Hat Enterprise Linux y Windows Server.
+- **Virtualización:** VMware.
+- **Servidores web:** Apache HTTP Server.
+- **Middleware:** Apache Tomcat y Oracle WebLogic.
+- **Proxy inverso:** Apache y Nginx.
+- **Bases de datos:** MySQL y Oracle.
+- **Automatización:** Bash y, progresivamente, Ansible.
+- **Infraestructura y cloud:** tecnologías que se incorporarán progresivamente.
+
+## Áreas de trabajo
+
+- Administración de sistemas Linux y Windows Server.
+- Gestión de usuarios, grupos, permisos y servicios.
+- Configuración y administración de servidores web y middleware.
+- Integración Apache HTTP Server y Tomcat.
+- Configuración de proxy inverso con Apache y Nginx.
+- Seguridad web: HTTPS, TLS, certificados y conceptos de WAF.
+- Redes, conectividad y troubleshooting.
+- Virtualización y gestión de máquinas virtuales.
+- Automatización de tareas mediante scripting.
+- Resolución práctica de incidencias y escenarios de troubleshooting.
+- Aprendizaje progresivo de tecnologías cloud e infraestructura como código.
+
+## Prácticas y proyectos
+
+El repositorio recoge prácticas individuales, configuraciones, pequeños proyectos y retos técnicos documentados, incluyendo los escenarios de troubleshooting de SadServers.
+
+## Nota
+
+Los contenidos de este repositorio corresponden a prácticas y proyectos realizados en entornos personales de laboratorio. No representan configuraciones ni intervenciones realizadas en entornos productivos de clientes.
