@@ -17,6 +17,16 @@ Desarrollar, practicar y documentar conocimientos de administración de sistemas
 - **Automatización:** Bash y, progresivamente, Ansible.
 - **Infraestructura y cloud:** tecnologías que se incorporarán progresivamente.
 
+## Metodología y entorno de prácticas
+
+Las prácticas documentadas en este repositorio se han realizado en un entorno personal de laboratorio, principalmente sobre máquinas virtuales, con el objetivo de reforzar y ampliar conocimientos en administración de sistemas e infraestructura IT.
+
+La documentación recoge los comandos utilizados, las tareas realizadas, los conceptos trabajados y los aprendizajes obtenidos durante cada práctica.
+
+Los ejercicios están orientados a desarrollar habilidades prácticas de administración, configuración, diagnóstico y resolución de incidencias en sistemas y servicios de infraestructura.
+
+Este laboratorio tiene una finalidad formativa y experimental, por lo que las configuraciones y procedimientos documentados no deben interpretarse como intervenciones realizadas en entornos productivos de clientes.
+
 ## Áreas de trabajo
 
 - Administración de sistemas Linux y Windows Server.
